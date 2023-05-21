@@ -32,7 +32,7 @@
 }
 
 .scroll-area:nth-of-type(1) {
-  background: url('/images/R.jfif') no-repeat;
+  background: url('https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&w=600') no-repeat;
   background-size: cover;
 }
 
@@ -44,12 +44,12 @@
 }
 
 .scroll-area:nth-of-type(3) {
-  background: url('/images/wallhaven-vqm813.jpg') no-repeat;
+  background: url('https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&w=600') no-repeat;
   background-size: cover;
 }
 
 .scroll-area:nth-of-type(4) {
-  background: url('/images/wallhaven-zygeko.jpg') no-repeat;
+  background: url('https://images.pexels.com/photos/2049422/pexels-photo-2049422.jpeg?auto=compress&cs=tinysrgb&w=600') no-repeat;
   background-size: cover;
 
 }
